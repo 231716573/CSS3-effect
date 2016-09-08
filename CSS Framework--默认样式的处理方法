@@ -1,0 +1,5 @@
+· 清除浏览器默认样式 （借鉴CSS Reset）
+· 禁用系统长按菜单（-webkit-touch-callout:none）
+· 禁用字体大小自动调整（-webkit-text-size-adjust:none）
+· 去掉点击高亮（-webkit-tap-highlight-color:rgba(0,0,0,0)）
+· 禁止选择内容（-webkit-user-select:none）
