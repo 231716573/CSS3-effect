@@ -1,0 +1,7 @@
+在flex-item元素中使用text-overflow:hidden；white-space:nowrap；进行省略文字的操作。
+
+发现flex-item失控了，长度完全根据子元素中的文字决定，把其他同级元素挤跑。
+
+解决办法：
+
+1.给flex-item元素增加min-width:0
